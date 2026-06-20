@@ -8,6 +8,13 @@
       "when": 1781911752028,
       "tag": "0000_brave_butterfly",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1781914471603,
+      "tag": "0001_curly_maverick",
+      "breakpoints": true
     }
   ]
 }
